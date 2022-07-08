@@ -1,7 +1,10 @@
-# General Info
+## TechStack
+ENSP
+
+## General Info
 Repo ini merupakan tugas dari mata kuliah Computer Network Management di semester 6. Materi yang diujikan adalah melakukan konfigurasi static routing. Goals dari tugas ini adalah PC A dan PC B dapat saling ping satu sama lain.
 
-# Topologi
+## Topologi
 
 - Topologi ini terdiri dari 2 PC (A dan B), 4 router (R1, R2, R3, dan R4), dan interface pada router 2 dan router 4 di-bundling dengan etherchannel. 
 - Arah pengiriman paket dari A ke B yaitu R1 > R4 > R2 (active) dan R1 > R3 > R2 (standby)
