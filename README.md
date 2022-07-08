@@ -1,5 +1,5 @@
 # General Info
-Repo ini merupakan tugas dari mata kuliah Computer Network Management di semester 6. Materi yang diujikan adalah melakukan konfigurasi static routing.
+Repo ini merupakan tugas dari mata kuliah Computer Network Management di semester 6. Materi yang diujikan adalah melakukan konfigurasi static routing. Goals dari tugas ini adalah PC A dan PC B dapat saling ping satu sama lain.
 
 # Topologi
 
